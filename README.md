@@ -35,3 +35,15 @@ Gonilnik potrebujemo povsod, kjer računalnik uporablja strojno napravo, ki sama
 - matična plošča — čipovje, USB kontrolerji, SATA/NVMe krmilniki
 
 HDD vs SSD
+
+HDD je klasični trdi disk z mehanskimi, vrtečimi se deli. Zaradi tega je počasnejši pri branju in pisanju podatkov, bolj občutljiv na udarce in sčasoma bolj obrabljiv. Njegova prednost je nizka cena za veliko količino prostora, zato je primeren za shranjevanje velikih datotek, kjer hitrost ni pomembna.
+
+SSD pa uporablja flash pomnilnik brez gibljivih delov, kar mu omogoča bistveno hitrejše delovanje. Računalnik se z njim hitreje zažene, programi se odpirajo skoraj takoj, disk pa je tišji in bolj odporen na tresljaje. Slabost je višja cena na gigabajt, vendar SSD močno izboljša splošno hitrost in odzivnost sistema.
+
+KAJ JE PARTICIJE?
+Particija je razdeljen del trdega diska ali SSD‑ja, ki deluje kot samostojen “kos” prostora. Čeprav imaš fizično en disk, ga lahko razdeliš na več logičnih delov, ki se obnašajo kot ločeni diski.
+- uporabljamo ga za:
+- ločevanje sistema in podatkov
+- lažja varnostna kopija – sistem lahko obnoviš brez brisanja osebnih datotek
+- namestitev več operacijskih sistemov – npr. Windows + Linux
+- boljša organizacija – podatke razporediš po različnih delih diska
